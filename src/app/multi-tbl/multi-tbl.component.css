@@ -1,0 +1,3 @@
+div.card { width: 100px; }
+div.card li.list-group-item { padding: 5px; text-align: center; }
+div.card > div.card-header { text-align: center; }
